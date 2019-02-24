@@ -2,7 +2,7 @@
 
 ## Original issue
 
-Originally filed by @chinesedfan here:
+Originally filed by [@chinesedfan](https://github.com/chinesedfan) here:
 
 - https://github.com/vuejs/vue/issues/8545
 
