@@ -6,7 +6,7 @@ Originally filed by [@chinesedfan](https://github.com/chinesedfan) here:
 
 - https://github.com/vuejs/vue/issues/8545
 
-A that point the Vue version filed against was 2.5.16
+At that point the Vue version filed against was 2.5.16
 
 A fix was reported and released as part of version 2.5.18-beta.0
 
